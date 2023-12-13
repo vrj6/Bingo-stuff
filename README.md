@@ -6,4 +6,4 @@ The `bingo.ipynb` notebook is the meat of the code. There are two blocks of code
 
 Both work by reading in the `Bingo words - Sheet1.csv` file. The first column of this file should be all the words, and the first row will be skipped. Then, the word order is randomized, and the order of blank squares is also randomized. The grid is then filled, and the blank squares are filled with an image of your choice.
 
-Choose how many cards you want to generate and hit run. They will be saved in `jpg` files. The
+Choose how many cards you want to generate and hit run. They will be saved in `jpg` files.
